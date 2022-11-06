@@ -1,0 +1,11 @@
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\TAQI\OneDrive - UNIVERSITAS AMIKOM\Amikom\Semester 3\Pemrograman Lanjut\Tugas\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
